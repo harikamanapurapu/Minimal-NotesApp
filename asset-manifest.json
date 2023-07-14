@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Minimal-NotesApp/static/css/main.cd242199.css",
+    "main.js": "/Minimal-NotesApp/static/js/main.1642ed39.js",
+    "static/js/787.9243050f.chunk.js": "/Minimal-NotesApp/static/js/787.9243050f.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/Minimal-NotesApp/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/notes-img.png": "/Minimal-NotesApp/static/media/notes-img.ae4f3675052dd5f802c5.png",
+    "index.html": "/Minimal-NotesApp/index.html",
+    "main.cd242199.css.map": "/Minimal-NotesApp/static/css/main.cd242199.css.map",
+    "main.1642ed39.js.map": "/Minimal-NotesApp/static/js/main.1642ed39.js.map",
+    "787.9243050f.chunk.js.map": "/Minimal-NotesApp/static/js/787.9243050f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd242199.css",
+    "static/js/main.1642ed39.js"
+  ]
+}
